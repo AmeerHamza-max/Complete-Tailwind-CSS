@@ -1,0 +1,2 @@
+Tailwind is a utility first framework 
+Build website without leaving your html 
