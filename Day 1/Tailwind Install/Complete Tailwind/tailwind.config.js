@@ -17,7 +17,7 @@ module.exports = {
       },
 
       fontFamily: {
-        mullish: ["Mullish", "sans-serif"],
+        mulish: ["Mulish", "sans-serif"],
       },
 
     },
